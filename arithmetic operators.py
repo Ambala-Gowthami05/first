@@ -1,7 +1,0 @@
-num1 = int(input("enetr the number"))
-num2 = int(input("enter the number"))
-num3 = int(input("enter the number"))
-print(num1+num2+num3)
-print(num1-num3)
-print(num2*num3)
-print(num1/num3)
